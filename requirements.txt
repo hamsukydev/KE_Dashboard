@@ -26,7 +26,6 @@ make==0.1.6.post2
 Mako==1.2.4
 MarkupSafe==2.1.2
 numpy==1.23.5
-opencv-contrib-python==4.2.0.34
 openpyxl==3.0.10
 packaging==23.0
 pandas==1.5.2
